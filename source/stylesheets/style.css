@@ -162,6 +162,7 @@ hr{
   margin-top: 200px;
   margin-left: 5em;
   margin-right: 5em;
+  display: block;
 }
 
 .icon{
@@ -194,7 +195,7 @@ hr{
 .vertical-text{
   transform: rotate(-90deg);
   color:#FFF;
-  line-height:400px;
+  line-height:500px;
   font-family:'Josefin Slab',serif;
   letter-spacing:1px;
   font-size:18px;
@@ -220,7 +221,7 @@ hr{
 }
 
 .featured-text{
-  margin-top: 500px;
+  margin-top: 200px;
   font-family: 'Open Sans Condensed', sans-serif;
   font-size:18px;
   color: #FFF;
