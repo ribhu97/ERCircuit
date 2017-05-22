@@ -237,3 +237,19 @@ hr{
 	-moz-animation: color-change-2x 3s linear alternate both;
 	animation: color-change-2x 3s linear alternate both;
 }
+
+
+.flex-row {
+   display: -webkit-flex;
+   display: flex;
+   -webkit-flex-direction: row;
+   flex-direction: row;
+   align-items:flex-end;
+}
+
+.flex-col{
+   display: -webkit-flex;
+   display: flex;
+   -webkit-flex-direction: column;
+   flex-direction: column;
+}
